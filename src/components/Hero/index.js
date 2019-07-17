@@ -7,7 +7,7 @@ import H1 from "./H1";
 import P from "./P";
 import HeroLinks from "../HeroLinks";
 import Img from "./Img";
-import Me from "./super-cool-dude.png";
+import Me from "./adamu.png";
 import ParticlesBG from "../ParticlesBG";
 
 function Hero(props) {
