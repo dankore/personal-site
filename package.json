@@ -1,10 +1,10 @@
 {
   "name": "personal-site",
-  "description": "Personal Site for Ryan Fitzgerald",
+  "description": "Personal Site for Adamu M. Dankore",
   "version": "1.0.0",
-  "author": "Ryan Fitzgerald <contact@ryanfitzgerald.ca>",
+  "author": "Adamu M, Dankore <adamu.dankore@gmail.com>",
   "bugs": {
-    "url": "https://github.com/ryanfitzgerald/personal-site/issues"
+    "url": "https://github.com/dankore/personal-site"
   },
   "dependencies": {
     "gatsby": "^1.8.12",
@@ -35,10 +35,7 @@
     "prettier": "^1.6.1"
   },
   "homepage": "https://github.com/ryanfitzgerald/personal-site",
-  "keywords": [
-    "gatsby",
-    "personal site"
-  ],
+  "keywords": ["gatsby", "personal site"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
