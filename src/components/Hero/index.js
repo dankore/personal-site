@@ -16,11 +16,14 @@ function Hero(props) {
       <ParticlesBG />
       <Container>
         <Column>
-          <H1>Ryan Fitzgerald</H1>
+          <H1>Adamu M. Dankore</H1>
           <P>
-            Full-stack Software Engineer. Currently, I'm a Junior Front-End
-            Developer at{" "}
-            <a href="https://homeawayfromhome.online/" target="_blank">
+            Front-end Software Engineer. Currently, I'm a Front-end Developer at{" "}
+            <a
+              href="https://homeawayfromhome.online/"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
               Home Away Frome Home
             </a>
             .

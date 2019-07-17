@@ -9,6 +9,7 @@ function SocialMedia(props) {
       <Item>
         <a
           href="https://github.com/dankore"
+          rel="noopener noreferrer"
           target="_blank"
           aria-label="My GitHub"
         >
@@ -26,6 +27,7 @@ function SocialMedia(props) {
       <Item>
         <a
           href="https://www.linkedin.com/in/adamumuhammad/"
+          rel="noopener noreferrer"
           target="_blank"
           aria-label="My LinkedIn"
         >
@@ -43,6 +45,7 @@ function SocialMedia(props) {
       <Item>
         <a
           href="https://twitter.com/adamuMdankore"
+          rel="noopener noreferrer"
           target="_blank"
           aria-label="My Twitter"
         >
