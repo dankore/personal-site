@@ -1,20 +1,21 @@
 ---
-title: "BankOfCanada.ca Landing"
+title: "Home Away Frome Home"
 type: "Web Page"
-date: "2018-04-12"
-path: "/boc/"
+date: "November, 2018"
+path: "/hafh/"
 thumbnail: "./thumbnail.jpg"
 ---
 
 ## Overview
 
-As a co-op student, one of my tasks was to redesign / rework the existing homepage and try to modernize the look and feel of it, while maintaining the user experience.  In addition, I was also tasked with helping create new key market indicators that would look good on any device and be accessible to anyone (including screen readers). The key market indicators had to pull dynamically from our backend api as well.
+From an idea to 500 unique visits a day and more than 400 registered users used in more than 30 countries since June 2019. I create the site's static web pages, but equally responsble for the looks of the site.
 
-To see the changes live, [click here](http://www.bankofcanada.ca/ "Bank of Canada").
+View live: [click here](https://homeawayfromhome.online/ "Home Away From Home").
 
 ## Result
 
-Below you can find a number of screenshots from the updated page.
+Below you can find a number of screenshots from the page.
 
-![Screenshot 1](./image1.jpg)
-![Screenshot 2](./image2.jpg)
+![Screenshot 1](./image1.JPG)
+![Screenshot 2](./image2.JPG)
+![Screenshot 2](./image3.JPG)

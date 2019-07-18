@@ -4,13 +4,6 @@ import Wrapper from "./Wrapper";
 import Link from "./Link";
 import SocialMedia from "../SocialMedia";
 
-// function Date() {
-//   return {
-//     newDate = new Date().getFullYear();
-//     console.log(newDate);
-//   }
-// }
-
 function Footer() {
   return (
     <Wrapper>
