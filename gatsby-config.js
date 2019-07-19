@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: "Ryan Fitzgerald",
-    author: "Ryan Fitzgerald",
+    title: "Adamu M. Dankore",
+    author: "Adamu M. Dankore"
   },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/pages`,
-        name: "pages",
-      },
+        name: "pages"
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -21,31 +21,31 @@ module.exports = {
             options: {
               maxWidth: 1000,
               linkImagesToOriginal: false,
-              wrapperStyle: 'margin: 0 -30px 10px !important;'
-            },
+              wrapperStyle: "margin: 0 -30px 10px !important;"
+            }
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
+              wrapperStyle: `margin-bottom: 1.0725rem`
+            }
           },
           "gatsby-remark-prismjs",
           "gatsby-remark-copy-linked-files",
-          "gatsby-remark-smartypants",
-        ],
-      },
+          "gatsby-remark-smartypants"
+        ]
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-54210715-4`,
-      },
+        trackingId: `UA-54210715-4`
+      }
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`
-  ],
-}
+  ]
+};
