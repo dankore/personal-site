@@ -23,6 +23,6 @@ See site live: [click here](https://amalsdelight.netlify.com/ "Amal's Delight").
 
 Below you can find a number of screenshots from the web app.
 
-![Screenshot 1](./image1.jpg)
-![Screenshot 2](./image2.jpg)
-![Screenshot 3](./image3.jpg)
+![Screenshot 1](./todo1.jpg)
+![Screenshot 2](./todo2.jpg)
+![Screenshot 3](./todo3.jpg)
