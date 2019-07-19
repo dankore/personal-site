@@ -8,7 +8,7 @@ thumbnail: "./thumbnail.jpg"
 
 ## Overview
 
-An e-commerse site for a client.
+An e-commerse site for a client based in Africa.
 
 ## Tech stack
 
