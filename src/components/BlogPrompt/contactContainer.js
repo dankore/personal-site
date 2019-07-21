@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { smallScreen } from "../../variables";
 
 const ContactContainer = styled.div`
   margin: 0 0 15px 0;

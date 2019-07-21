@@ -125,7 +125,7 @@ class BlogIndex extends React.Component {
             </OtherWorkWrapper>
           </Container>
         </OtherWrapper>
-        <BlogPrompt />
+        <BlogPrompt id="contact" />
       </div>
     );
   }
