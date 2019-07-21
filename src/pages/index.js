@@ -59,9 +59,7 @@ class BlogIndex extends React.Component {
         <WorkWrapper id="projects">
           <Container>
             <SectionHeader>Projects</SectionHeader>
-            <SectionDescription>
-              Some of the larger projects I've worked on
-            </SectionDescription>
+            <SectionDescription>Highlighted projects</SectionDescription>
             {posts.map(post => {
               if (post.node.path !== "/404/") {
                 return (
@@ -85,7 +83,7 @@ class BlogIndex extends React.Component {
             <SectionHeader>Other Work</SectionHeader>
             <SectionDescription>
               To see a complete list, visit my{" "}
-              <a href="https://github.com/RyanFitzgerald">GitHub</a>
+              <a href="https://github.com/dankore">GitHub</a>
             </SectionDescription>
             <OtherWorkWrapper>
               <OtherWork
@@ -134,6 +132,7 @@ class BlogIndex extends React.Component {
 }
 
 BlogIndex.propTypes = {
+  ////PropTypes
   route: React.PropTypes.object
 };
 
