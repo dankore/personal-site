@@ -19,9 +19,7 @@ An e-commerse site for a client based in Africa.
 
 See site live: [click here](https://amalsdelight.netlify.com/ "Amal's Delight").
 
-## Result
-
-Below you can find a number of screenshots from the web app.
+## Screenshots
 
 ![Screenshot 1](./todo1.jpg)
 ![Screenshot 2](./todo2.jpg)

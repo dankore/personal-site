@@ -25,8 +25,6 @@ See the live web page: [click here](https://gosan06.netlify.com/ "Live Preview")
 
 ## Screenshots
 
-Below you can find a number of screenshots from the web.
-
 ![Screenshot 1](./image1.jpg)
 ![Screenshot 2](./image2.jpg)
 ![Screenshot 3](./image3.jpg)
