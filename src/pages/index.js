@@ -12,9 +12,10 @@ import {
 
 import Hero from "../components/Hero";
 import Container from "../components/Container";
+import BlogPrompt from "../components/BlogPrompt";
 import Work from "../components/Work";
 import OtherWork from "../components/OtherWork";
-import Contact from "..components/Contact";
+// import Contact from "..components/Contact";
 
 const WorkWrapper = styled.div`
   padding: 75px 0 45px;
@@ -125,7 +126,7 @@ class BlogIndex extends React.Component {
             </OtherWorkWrapper>
           </Container>
         </OtherWrapper>
-        <Contact />
+        <BlogPrompt />
       </div>
     );
   }
