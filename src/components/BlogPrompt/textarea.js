@@ -7,7 +7,7 @@ const Textarea = styled.textarea`
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #1d6fa5;
+  background: #3498db;
   color: #fff;
   -webkit-transition: 0.5s ease all;
   transition: 0.5s ease all;
