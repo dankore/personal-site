@@ -35,7 +35,10 @@
     "prettier": "^1.6.1"
   },
   "homepage": "https://github.com/ryanfitzgerald/personal-site",
-  "keywords": ["gatsby", "personal site"],
+  "keywords": [
+    "gatsby",
+    "personal site"
+  ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
