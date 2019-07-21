@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import { smallScreen } from '../../variables';
+import styled from "styled-components";
+import { smallScreen } from "../../variables";
 
 const Column = styled.div`
   float: left;
