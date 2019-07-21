@@ -87,40 +87,40 @@ class BlogIndex extends React.Component {
             </SectionDescription>
             <OtherWorkWrapper>
               <OtherWork
-                name="Day Counter"
-                description="Chrome Extension to track days until or since life events"
-                tags={["Chrome", "JavaScript"]}
-                link="https://chrome.google.com/webstore/detail/day-counter-new-tab-page/popaiegponeiefbiddhmaphpbdjoegff?hl=en"
+                name="Calculator"
+                description="A Simple calculator that performs basic arithmetics"
+                tags={["JavaScript", "HTML5", "CSS3"]}
+                link="https://awesomecalculator.netlify.com"
               />
               <OtherWork
-                name="Personal Blog"
-                description="My personal blog built in Gatsby and React"
-                tags={["React", "GatsbyJS"]}
-                link="https://github.com/RyanFitzgerald/personal-blog"
+                name="Custom Video Player"
+                description="Video player with basic functions like forwarding/reversing, pause, and more"
+                tags={["JavaScript", "HTML5", "CSS3"]}
+                link="https://custom-videoplayer.netlify.com/"
               />
               <OtherWork
-                name="Personal Site"
-                description="My personal site (this one!) built in Gatsby and React"
-                tags={["React", "GatsbyJS"]}
-                link="https://github.com/RyanFitzgerald/personal-site"
+                name="Canvas"
+                description="Canvas"
+                tags={["JavaScript", "HTML5", "CSS3"]}
+                link="https://canvas-drawing.netlify.com"
               />
               <OtherWork
-                name="Vertical Timeline"
-                description="An open-source, responsive vertical timeline generator"
-                tags={["JavaScript", "jQuery"]}
-                link="https://github.com/RyanFitzgerald/vertical-timeline"
+                name="Time in Iowa"
+                description="Iowa (U.S.A) time in hours, minutes, and seconds. Also includes day of the week and date"
+                tags={["JavaScript", "HTML5", "CSS3"]}
+                link="https://timeiniowa.netlify.com"
               />
               <OtherWork
-                name="TagSelector"
-                description="An open-source JS plugin to turn multiselects into selectable tag clouds"
-                tags={["JavaScript", "SASS"]}
-                link="https://github.com/RyanFitzgerald/tagselector"
+                name="Personal Portfolio"
+                description="Personal portfolio site I had built using only HTML and CSS. It contains my other works"
+                tags={["HTML5", "CSS3"]}
+                link="https://dankore-portfolio.netlify.com/#welcome-section"
               />
               <OtherWork
-                name="RenovAction.ca"
-                description="Designed and developed a fully custom WordPress theme for local company"
-                tags={["WordPress", "SASS", "JavaScript", "PHP"]}
-                link="https://renovaction.ca/"
+                name="Technical Documentation Site"
+                description="Put other lessons about HTML, CSS, React, Node, and JavaScript from other sources, to design a technical document in a website format."
+                tags={["HTML5", "CSS3"]}
+                link="https://dankore-technical-documentation-page.netlify.com"
               />
             </OtherWorkWrapper>
           </Container>
