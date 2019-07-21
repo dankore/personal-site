@@ -11,6 +11,11 @@ const Input = styled.input`
   color: #fff;
   -webkit-transition: 0.5s ease all;
   transition: 0.5s ease all;
+
+  &:focus {
+    outline: none;
+    background: #16527a;
+  }
 `;
 
 export default Input;

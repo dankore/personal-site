@@ -13,6 +13,11 @@ const Textarea = styled.textarea`
   transition: 0.5s ease all;
   height: 150px;
   resize: none;
+
+  &:focus {
+    outline: none;
+    background: #16527a;
+  }
 `;
 
 export default Textarea;
