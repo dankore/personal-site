@@ -15,7 +15,6 @@ import Container from "../components/Container";
 import BlogPrompt from "../components/BlogPrompt";
 import Work from "../components/Work";
 import OtherWork from "../components/OtherWork";
-// import Contact from "..components/Contact";
 
 const WorkWrapper = styled.div`
   padding: 75px 0 45px;

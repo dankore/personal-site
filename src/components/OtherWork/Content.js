@@ -1,5 +1,4 @@
-import styled from 'styled-components';
-import { mainColour, borderColour } from '../../variables';
+import styled from "styled-components";
 
 const Content = styled.a`
   background: #fff;
