@@ -1,15 +1,37 @@
-import React from 'react';
+import React from "react";
 
-import Wrapper from './Wrapper';
-import P from './P';
-import Button from '../Button';
+import Button from "./button";
+import ContactContainer from "./contactContainer";
+import FormWrapper from "./formWrapper";
+import H2 from "./h2";
+import Input from "./input";
+import Textarea from "./textarea";
 
-function BlogPrompt(props) {
+function BlogPrompt() {
   return (
-    <Wrapper>
-      <P>Have a second? Check out my development blog!</P>
-      <Button href="https://blog.ryanfitzgerald.ca/">Visit Blog</Button>
-    </Wrapper>
+    <ContactContainer>
+      <H2>Get in Touch</H2>
+      <FormWrapper>
+        <form
+          method="POST"
+          action="https://formspree.io/adamu@homeawayfromhome.online"
+        >
+          <Input
+            type="hidden"
+            name="_subject"
+            value="Contact request from personal website"
+          />
+          <Input
+            type="email"
+            name="_replyto"
+            placeholder="Your email"
+            required
+          />
+          <Textarea name="message" placeholder="Your message" required />
+          <Button type="submit">Send</Button>
+        </form>
+      </FormWrapper>
+    </ContactContainer>
   );
 }
 
