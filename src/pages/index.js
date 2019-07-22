@@ -145,8 +145,8 @@ class BlogIndex extends React.Component {
           <Container>
             <ContactSectionHeader>Contact</ContactSectionHeader>
             <ContactSectionDescription>
-              Need help with a website work? Get in touch, I would be happy to
-              help!
+              Need a helping hand with a website? I would be happy to help. Get
+              in touch!
             </ContactSectionDescription>
             <BlogPrompt />
           </Container>
