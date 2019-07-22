@@ -32,6 +32,7 @@ const Textarea = styled.textarea`
 
   &:focus {
     outline: none;
+    border: none;
     /* background: #16527a; */
   }
 `;
