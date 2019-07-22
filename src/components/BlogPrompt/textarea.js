@@ -7,7 +7,7 @@ const Textarea = styled.textarea`
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #3498db;
+  background: #16527a;
   color: #fff;
   -webkit-transition: 0.5s ease all;
   transition: 0.5s ease all;
@@ -17,7 +17,7 @@ const Textarea = styled.textarea`
 
   &:focus {
     outline: none;
-    background: #16527a;
+    /* background: #16527a; */
   }
 `;
 
