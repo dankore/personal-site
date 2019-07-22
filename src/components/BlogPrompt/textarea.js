@@ -15,6 +15,21 @@ const Textarea = styled.textarea`
   resize: none;
   font-weight: bold;
 
+  ::-webkit-input-placeholder {
+    color: #fff;
+  }
+  :-moz-placeholder {
+    color: #fff;
+    opacity: 1;
+  }
+  ::-moz-placeholder {
+    color: #fff;
+    opacity: 1;
+  }
+  :-ms-input-placeholder {
+    color: #fff;
+  }
+
   &:focus {
     outline: none;
     /* background: #16527a; */
