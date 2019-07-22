@@ -42,7 +42,7 @@ const ContactSectionHeader = styled.h2`
 `;
 
 const ContactSectionDescription = styled.p`
-  /* color: #fff; */
+  color: #ffffff;
   margin: 0 0 75px;
   text-align: center;
 `;
