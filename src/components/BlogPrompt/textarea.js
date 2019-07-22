@@ -13,6 +13,7 @@ const Textarea = styled.textarea`
   transition: 0.5s ease all;
   height: 150px;
   resize: none;
+  font-weight: bold;
 
   &:focus {
     outline: none;

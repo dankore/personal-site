@@ -20,6 +20,11 @@ const WhiteBackgroundWrapper = styled.div`
   padding: 75px 0 45px;
 `;
 
+const ContactBackgroundWrapper = styled.div`
+  background: #3498db;
+  padding: 75px 0 45px;
+`;
+
 const OtherWrapper = styled.div`
   background: ${backgroundAlt};
   padding: 75px 0 45px;
@@ -125,12 +130,12 @@ class BlogIndex extends React.Component {
             </OtherWorkWrapper>
           </Container>
         </OtherWrapper>
-        <WhiteBackgroundWrapper id="contact">
+        <ContactBackgroundWrapper id="contact">
           <Container>
             <SectionHeader>Contact</SectionHeader>
             <BlogPrompt />
           </Container>
-        </WhiteBackgroundWrapper>
+        </ContactBackgroundWrapper>
       </div>
     );
   }
