@@ -10,7 +10,6 @@ import Textarea from "./textarea";
 function BlogPrompt() {
   return (
     <ContactContainer>
-      <H2>Get in Touch</H2>
       <FormWrapper>
         <form
           method="POST"
