@@ -41,6 +41,12 @@ const ContactSectionHeader = styled.h2`
   text-align: center;
 `;
 
+const ContactSectionDescription = styled.p`
+  /* color: #fff; */
+  margin: 0 0 75px;
+  text-align: center;
+`;
+
 const SectionDescription = styled.p`
   color: ${textColour};
   margin: 0 0 75px;
@@ -138,10 +144,10 @@ class BlogIndex extends React.Component {
         <ContactBackgroundWrapper id="contact">
           <Container>
             <ContactSectionHeader>Contact</ContactSectionHeader>
-            <SectionDescription>
+            <ContactSectionDescription>
               Need help with a website work? Get in touch, I would be happy to
               help!
-            </SectionDescription>
+            </ContactSectionDescription>
             <BlogPrompt />
           </Container>
         </ContactBackgroundWrapper>
