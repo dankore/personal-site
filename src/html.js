@@ -1,25 +1,25 @@
-import React from "react"
-import favicon from "./favicon.ico";
+import React from "react";
+import favicon from "./Favicon.ico";
 
-let stylesStr
+let stylesStr;
 if (process.env.NODE_ENV === `production`) {
   try {
-    stylesStr = require(`!raw-loader!../public/styles.css`)
+    stylesStr = require(`!raw-loader!../public/styles.css`);
   } catch (e) {
-    console.log(e)
+    console.log(e);
   }
 }
 
 module.exports = class HTML extends React.Component {
   render() {
-    let css
+    let css;
     if (process.env.NODE_ENV === `production`) {
       css = (
         <style
           id="gatsby-inlined-css"
           dangerouslySetInnerHTML={{ __html: stylesStr }}
         />
-      )
+      );
     }
     return (
       <html {...this.props.htmlAttributes}>
@@ -32,7 +32,10 @@ module.exports = class HTML extends React.Component {
           />
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
-          <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet"/>
+          <link
+            href="https://fonts.googleapis.com/css?family=Lato:400,700"
+            rel="stylesheet"
+          />
           {css}
         </head>
         <body {...this.props.bodyAttributes}>
@@ -45,6 +48,6 @@ module.exports = class HTML extends React.Component {
           {this.props.postBodyComponents}
         </body>
       </html>
-    )
+    );
   }
-}
+};

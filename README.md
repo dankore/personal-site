@@ -1,3 +1,3 @@
-# Personal Site - Ryan Fitzgerald
+# Personal Site - Adamu M. Dankore
 
-My personal site built using React and GatsbyJS. Cloned from .
+My personal site built using React and GatsbyJS. Cloned from https://github.com/RyanFitzgerald/personal-site.
