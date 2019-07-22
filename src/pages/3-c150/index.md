@@ -21,6 +21,6 @@ See site live: [click here](https://amalsdelight.netlify.com/ "Amal's Delight").
 
 ## Screenshots
 
-![Screenshot 1](./todo1.jpg)
+![Screenshot 1](./image1.jpg)
 ![Screenshot 2](./todo2.jpg)
 ![Screenshot 3](./todo3.jpg)
