@@ -125,10 +125,12 @@ class BlogIndex extends React.Component {
             </OtherWorkWrapper>
           </Container>
         </OtherWrapper>
-        <Container id="contact">
-          <SectionHeader>Contact</SectionHeader>
-          <BlogPrompt />
-        </Container>
+        <WorkWrapper>
+          <Container id="contact">
+            <SectionHeader>Contact</SectionHeader>
+            <BlogPrompt />
+          </Container>
+        </WorkWrapper>
       </div>
     );
   }
