@@ -98,43 +98,43 @@ class BlogIndex extends React.Component {
           <Container>
             <SectionHeader>Other Work</SectionHeader>
             <SectionDescription>
-              To see a complete list, visit my{" "}
+              See a complete list on my{" "}
               <a href="https://github.com/dankore">GitHub</a>
             </SectionDescription>
             <OtherWorkWrapper>
               <OtherWork
-                name="Calculator"
-                description="A Simple calculator that performs basic arithmetics"
+                name="A Calculator"
+                description="A calculator that performs addition, subtraction, division and multiplication."
                 tags={["JavaScript", "HTML5", "CSS3"]}
                 link="https://awesomecalculator.netlify.com"
               />
               <OtherWork
-                name="Custom Video Player"
-                description="Video player with basic functions like forwarding/reversing, pause, and more"
+                name="A Custom Video Player"
+                description="Video player with basic functions like forwarding/reversing, pausing, and more."
                 tags={["JavaScript", "HTML5", "CSS3"]}
                 link="https://custom-videoplayer.netlify.com/"
               />
               <OtherWork
-                name="Canvas"
-                description="Canvas"
+                name="A Weight Converter"
+                description="Converts Pounds to Grams, Kilograms, & Ounce."
                 tags={["JavaScript", "HTML5", "CSS3"]}
-                link="https://canvas-drawing.netlify.com"
+                link="https://pounds-to.netlify.com/"
               />
               <OtherWork
-                name="Time in Iowa"
-                description="Iowa (U.S.A) time in hours, minutes, and seconds. Also includes day of the week and date"
+                name="The Time in Iowa"
+                description="Iowa (U.S.A) time in hours, minutes, and seconds. Also includes day of the week and current date."
                 tags={["JavaScript", "HTML5", "CSS3"]}
                 link="https://timeiniowa.netlify.com"
               />
               <OtherWork
-                name="Personal Portfolio"
-                description="Personal portfolio site I had built using only HTML and CSS. It contains my other works"
+                name="My Old Personal Portfolio"
+                description="Personal portfolio site I had built using only HTML and CSS. It contains my other works too."
                 tags={["HTML5", "CSS3"]}
-                link="https://dankore-portfolio.netlify.com/#welcome-section"
+                link="https://dankore-portfolio.netlify.com/"
               />
               <OtherWork
-                name="Technical Documentation Site"
-                description="Put other lessons about HTML, CSS, React, Node, and JavaScript from other sources, to design a technical document in a website format."
+                name="A Technical Documentation Site"
+                description="Put other lessons about HTML, CSS, React, Node, and JavaScript from other sources, to design a technical document in a website format. This is part of freecodecamp.org course but customized."
                 tags={["HTML5", "CSS3"]}
                 link="https://dankore-technical-documentation-page.netlify.com"
               />
