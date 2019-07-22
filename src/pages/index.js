@@ -16,7 +16,7 @@ import BlogPrompt from "../components/BlogPrompt";
 import Work from "../components/Work";
 import OtherWork from "../components/OtherWork";
 
-const WorkWrapper = styled.div`
+const WhiteBackgroundWrapper = styled.div`
   padding: 75px 0 45px;
 `;
 
@@ -56,7 +56,7 @@ class BlogIndex extends React.Component {
       <div>
         <Helmet title={get(this, "props.data.site.siteMetadata.title")} />
         <Hero />
-        <WorkWrapper id="projects">
+        <WhiteBackgroundWrapper id="projects">
           <Container>
             <SectionHeader>Projects</SectionHeader>
             <SectionDescription>Highlighted projects</SectionDescription>
@@ -77,7 +77,7 @@ class BlogIndex extends React.Component {
               }
             })}
           </Container>
-        </WorkWrapper>
+        </WhiteBackgroundWrapper>
         <OtherWrapper>
           <Container>
             <SectionHeader>Other Work</SectionHeader>
@@ -125,12 +125,12 @@ class BlogIndex extends React.Component {
             </OtherWorkWrapper>
           </Container>
         </OtherWrapper>
-        <WorkWrapper>
-          <Container id="contact">
+        <WhiteBackgroundWrapper id="contact">
+          <Container>
             <SectionHeader>Contact</SectionHeader>
             <BlogPrompt />
           </Container>
-        </WorkWrapper>
+        </WhiteBackgroundWrapper>
       </div>
     );
   }
