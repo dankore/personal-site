@@ -29,7 +29,7 @@ const Input = styled.input`
   }
 
   &:focus {
-    outline: none;
+    outline: 1px solid rgba(255, 255, 255, 1);
     /* background: #16527a; */
   }
 `;
