@@ -31,8 +31,7 @@ const Textarea = styled.textarea`
   }
 
   &:focus {
-    outline: 1px solid rgba(255, 255, 255, 1);
-    /* background: #16527a; */
+    background: #0a293d;
   }
 `;
 

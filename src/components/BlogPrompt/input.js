@@ -6,6 +6,7 @@ const Input = styled.input`
   padding: 10px;
   border-radius: 4px;
   border: none;
+  outline: 1px solid rgba(255, 255, 255, 0);
   margin-bottom: 10px;
   background: #16527a;
   color: #fff;
@@ -29,8 +30,7 @@ const Input = styled.input`
   }
 
   &:focus {
-    outline: 1px solid rgba(255, 255, 255, 1);
-    /* background: #16527a; */
+    background: #0a293d;
   }
 `;
 
