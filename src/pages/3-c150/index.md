@@ -1,7 +1,7 @@
 ---
 title: "Amal's Delight"
 type: "Website"
-date: "2019-05-11"
+date: "2019-05-15"
 path: "amals-delight"
 thumbnail: "./thumbnail.jpg"
 ---
