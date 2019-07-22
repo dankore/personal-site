@@ -128,13 +128,13 @@ class BlogIndex extends React.Component {
               />
               <OtherWork
                 name="My Old Personal Portfolio"
-                description="Personal portfolio site I had built using only HTML and CSS. It contains my other works too."
+                description="A Personal portfolio site I had built using only HTML and CSS. It contains my other works too."
                 tags={["HTML5", "CSS3"]}
                 link="https://dankore-portfolio.netlify.com/"
               />
               <OtherWork
                 name="A Technical Documentation Site"
-                description="Put other lessons about HTML, CSS, React, Node, and JavaScript from other sources, to design a technical document in a website format. This is part of freecodecamp.org course but customized."
+                description="Put together definions of HTML, CSS, React, Node, and JavaScript from other sources, to design a technical document in a website format. This is part of freecodecamp.org course but customized."
                 tags={["HTML5", "CSS3"]}
                 link="https://dankore-technical-documentation-page.netlify.com"
               />
