@@ -1,6 +1,6 @@
 ---
 title: "Home Away Frome Home"
-type: "Web Page"
+type: "Web Application"
 date: "November, 2018"
 path: "/hafh/"
 thumbnail: "./thumbnail.jpg"
