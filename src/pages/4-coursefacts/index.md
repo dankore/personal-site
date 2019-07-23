@@ -3,7 +3,7 @@ title: "Todo App"
 type: "Web Application"
 date: "2018-06-02"
 path: "/todo/"
-thumbnail: "./thumbnail.jpg"
+thumbnail: "./thumbnail-todo.jpg"
 ---
 
 ## Overview
