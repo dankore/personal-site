@@ -3,7 +3,7 @@ title: "Amal's Delight"
 type: "Website"
 date: "2019-05-15"
 path: "amals-delight"
-thumbnail: "./thumbnail.jpg"
+thumbnail: "./thumbnail-amal.jpg"
 ---
 
 ## Overview
