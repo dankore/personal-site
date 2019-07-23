@@ -12,9 +12,18 @@ From an idea to 500 unique visits a day and more than 400 registered users used 
 
 View live: [click here](https://homeawayfromhome.online/ "Home Away From Home").
 
-## Result
+## Tech Stack
 
-Below you can find a number of screenshots from the page.
+- PostgreSQL Database
+- Caddy HTTP Server - Handles HTTPS automatically
+- Hapi.js API Server - Manages data requests
+- Local authentication
+- Google authentication
+- Facebook authentication
+- Hyperapp - Lightweight Javascript framework. < 2KB download size.
+- Tailwind - CSS Utility library.
+
+## Screenshots
 
 ![Screenshot 1](./image1.JPG)
 ![Screenshot 2](./image2.JPG)
