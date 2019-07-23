@@ -121,7 +121,7 @@ class BlogIndex extends React.Component {
                 link="https://pounds-to.netlify.com/"
               />
               <OtherWork
-                name="The Time in Iowa"
+                name="The Current Time in Iowa"
                 description="Iowa (U.S.A) time in hours, minutes, and seconds. Also includes day of the week and current date."
                 tags={["JavaScript", "HTML5", "CSS3"]}
                 link="https://timeiniowa.netlify.com"
@@ -134,7 +134,7 @@ class BlogIndex extends React.Component {
               />
               <OtherWork
                 name="A Technical Documentation Site"
-                description="Put together definions of HTML, CSS, React, Node, and JavaScript from other sources, to design a technical document in a website format. This is part of freecodecamp.org course but customized."
+                description="I put together definions of HTML, CSS, React, Node, and JavaScript from other sources, to design a technical document in a website format. This is part of freecodecamp.org course but customized."
                 tags={["HTML5", "CSS3"]}
                 link="https://dankore-technical-documentation-page.netlify.com"
               />
