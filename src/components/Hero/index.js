@@ -18,7 +18,7 @@ function Hero(props) {
         <Column>
           <H1>Adamu M. Dankore</H1>
           <P>
-            Front-end Software Engineer & Head of Marketing at{" "}
+            Frontend Software Engineer & Head of Marketing at{" "}
             <a
               href="https://homeawayfromhome.online/"
               rel="noopener noreferrer"
