@@ -19,8 +19,8 @@ See the live web page: [click here](https://gosan06.netlify.com/ "Live Preview")
 ## Tech stack
 
 - JavaScript 
-- Handlebars.js - JavaScript templating library 
-- Tailwindcss - A css utility library 
+- Handlebars.js - A JavaScript templating library 
+- Tailwindcss - A CSS utility library 
 - HTML5
 
 ## Screenshots
