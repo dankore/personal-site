@@ -8,7 +8,7 @@ thumbnail: "./thumbnail-hafh.jpg"
 
 ## Overview
 
-From an idea to 500 unique visits a day and more than 400 registered users used in more than 30 countries since June 2019. I create the site's static web pages, but equally responsble for the looks of the site.
+From an idea to an average of 1,000 page views per day and than 500 registered users across the world since June 2019. I started Home Away From Home to help people like me live abroad with success and also connect natives to non-natives. I handle static pages, user experience and head the marketing team.
 
 View live: [click here](https://homeawayfromhome.online/ "Home Away From Home").
 
