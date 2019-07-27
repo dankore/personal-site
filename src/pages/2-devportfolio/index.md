@@ -8,7 +8,7 @@ thumbnail: "./thumbnail.jpg"
 
 ## Overview
 
-I put together all the infomation my former class mates had in PDF format and turned it into a website. I stored the information as a JSON file and retrieve it via AJAX request from the Github server.
+I put together all the infomation my former class mates had in PDF format and turned it into a website. I stored the information as a JSON file and retrieve it via AJAX request from the Github server. Included error handling and a search functionality.  
 
 See the repo: [click here](https://github.com/dankore/gss-gwarinpa-2006-set "GitHub Repo").
 
@@ -18,9 +18,9 @@ See the live web page: [click here](https://gosan06.netlify.com/ "Live Preview")
 
 ## Tech stack
 
-- JavaScript
-- Handlebars.js
-- Tailwindcss
+- JavaScript 
+- Handlebars.js - JavaScript templating library 
+- Tailwindcss - A css utility library 
 - HTML5
 
 ## Screenshots
