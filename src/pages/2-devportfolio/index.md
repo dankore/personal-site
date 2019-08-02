@@ -3,7 +3,7 @@ title: "Alumni Wesbite"
 type: "Website"
 date: "July, 2019"
 path: "/gosan2006/"
-thumbnail: "./thumbnail.jpg"
+thumbnail: "./thumbnail-alumni.jpg"
 ---
 
 ## Overview
