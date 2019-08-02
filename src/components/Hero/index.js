@@ -6,8 +6,8 @@ import Column from "./Column";
 import H1 from "./H1";
 import P from "./P";
 import HeroLinks from "../HeroLinks";
-// import Img from "./Img";
-// import Me from "./adamu.png";
+import Img from "./Img";
+import Me from "./adamu.png";
 import ParticlesBG from "../ParticlesBG";
 
 function Hero(props) {
@@ -29,6 +29,9 @@ function Hero(props) {
             .
           </P>
           <HeroLinks />
+        </Column>
+        <Column>
+          <Img src={Me} alt="Picture of Adamu M. Dankore" />
         </Column>
       </Container>
     </Wrapper>
