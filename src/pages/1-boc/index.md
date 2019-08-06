@@ -8,7 +8,7 @@ thumbnail: "./thumbnail-hafh.jpg"
 
 ## Overview
 
-This is a project which idea was born of a visit to an elementary school. I went from hosting the site in a static Wordpress template and utilising Google forms to collect and store data to partnering with a professional web developer to rebirth the idea in a more robust web development environment.
+This is a project which idea was born of a visit to an elementary school. I went from hosting the site in a static WordPress template and utilizing Google Forms to collect and store data to partnering with a professional web developer to rebirth the idea in a more robust web development environment.
 
 The site is currently avereging more than 4,000 unique visits and 500,000 requests a month.
 
