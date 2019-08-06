@@ -8,9 +8,15 @@ thumbnail: "./thumbnail-hafh.jpg"
 
 ## Overview
 
-From an idea to an average of 1,000 page views per day and than more 500 registered users across the world since June of 2019. I started Home Away From Home to help people like me live abroad with success and also connect natives to non-natives. 
+This is a project which idea was born of a visit to an elementary school. I went from hosting the site in a static Wordpress template and utilising Google forms to collect and store data to partnering with a professional web developer to rebirth the idea in a more robust web development environment.
 
-I handle the site’s static pages, user experience, and head the marketing team.
+The site is currently avereging more than 4,000 unique visits and 500,000 requests a month.
+
+I made several of the site's static pages, content addition, and SEO.
+
+I head the marketing team which comprised of volunteer content creators and those helping small business onwers get their presence online.
+
+The mission of the project is to help people live abroad with success and encourgae cross-cultural interaction in fun, creative, and interactive way.
 
 View live: [click here](https://homeawayfromhome.online/ "Home Away From Home").
 
