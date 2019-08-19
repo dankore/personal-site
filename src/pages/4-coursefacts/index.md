@@ -8,18 +8,25 @@ thumbnail: "./thumbnailtodo.png"
 
 ## Overview
 
-Todo App is part of Wes Bos' JavaScript30 course about storing information on the browser (local storage). I customized the course to include featues like deleting all or selected items on the list.
+A basic to do app that performs CRUD operations to a backend MongoDB database using Nodejs.
 
-See the site live: [click here](https://localstorage-in-todolist.netlify.com "Todo App").
+### You require the following username and password to access the app
+
+Username: abuja Password: nigeria
+
+See the site live: [click here](https://crud-todo-app.herokuapp.com/ " CRUD Todo App").
 
 ## Tech Stack
 
 - JavaScript
+- Nodejs
+- Express
+- MongoDB Cloud
+- Authentication
 - HTLM5
-- CSS3
+- Boostrap4
 
 ## Screenshots
 
 ![Screenshot 1](./newtodo1.png)
 ![Screenshot 2](./newtodo2.png)
-
