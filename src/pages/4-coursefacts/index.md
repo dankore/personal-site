@@ -3,7 +3,7 @@ title: "Todo App"
 type: "Web Application"
 date: "2018-06-02"
 path: "/todo/"
-thumbnail: "./thumbnail-todo.jpg"
+thumbnail: "./thumbnailtodo.png"
 ---
 
 ## Overview
@@ -20,6 +20,6 @@ See the site live: [click here](https://localstorage-in-todolist.netlify.com "To
 
 ## Screenshots
 
-![Screenshot 1](./todo1.jpg)
-![Screenshot 2](./todo2.jpg)
-![Screenshot 3](./todo3.jpg)
+![Screenshot 1](./newtodo1.png)
+![Screenshot 2](./newtodo2.png)
+
