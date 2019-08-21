@@ -1,5 +1,5 @@
 ---
-title: "Todo App"
+title: "CRUD Todo App"
 type: "Web Application"
 date: "2018-06-02"
 path: "/todo/"
