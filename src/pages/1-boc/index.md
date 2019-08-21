@@ -14,9 +14,9 @@ The site is currently avereging more than 4,000 unique visits and 500,000 reques
 
 I made several of the site's static pages, content addition, and SEO.
 
-I head the marketing team which comprised of volunteer content creators and those helping small business onwers get their presence online.
+I lead the marketing team which comprised of volunteer content creators and those helping small business onwers get their presence online.
 
-The mission of the project is to help people live abroad with success and encourgae cross-cultural interaction in fun, creative, and interactive way.
+The mission of the project is to help people live abroad with success and encourgae cross-cultural interaction a in fun, creative, and interactive way.
 
 View live: [click here](https://homeawayfromhome.online/ "Home Away From Home").
 
