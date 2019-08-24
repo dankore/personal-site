@@ -3,7 +3,7 @@ title: "Amal's Delight"
 type: "Website"
 date: "2019-05-15"
 path: "amals-delight"
-thumbnail: "./thumbnail-amal.jpg"
+thumbnail: "./gss1.jpg"
 ---
 
 ## Overview
@@ -21,6 +21,6 @@ See site live: [click here](https://amalsdelight.netlify.com/ "Amal's Delight").
 
 ## Screenshots
 
-![Screenshot 1](./gss1.jpg)
+![Screenshot 1](./gss4.jpg)
 ![Screenshot 2](./gss2.jpg)
 ![Screenshot 3](./gss3.jpg)
