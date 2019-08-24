@@ -103,6 +103,13 @@ class BlogIndex extends React.Component {
             </SectionDescription>
             <OtherWorkWrapper>
               <OtherWork
+                name="Amal's Delight - Online Donut Shop"
+                description="An e-commerse site for a client "
+                tags={["Middleman Template", "Netlify CMS", "Ruby", "Ruby and Rails"]}
+                link="https://amalsdelight.netlify.com"
+              />
+              <OtherWork
+              <OtherWork
                 name="A Calculator"
                 description="A calculator that performs addition, subtraction, division and multiplication."
                 tags={["JavaScript", "HTML5", "CSS3"]}
