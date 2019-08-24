@@ -13,10 +13,15 @@ An e-commerse site for a client based in Africa.
 ## Tech stack
 
 - JavaScript
-- MongoDB
+- Nodejs
 - Express
+- MongoDB Cloud
+- Authentication
+- HTLM5
+- Boostrap4
+- MVC architecture
 
-See site live: [click here](https://amalsdelight.netlify.com/ "Amal's Delight").
+See site live: [click here](http://www.gssgwarinpa.com/").
 
 ## Screenshots
 
