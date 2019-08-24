@@ -109,7 +109,6 @@ class BlogIndex extends React.Component {
                 link="https://amalsdelight.netlify.com"
               />
               <OtherWork
-              <OtherWork
                 name="A Calculator"
                 description="A calculator that performs addition, subtraction, division and multiplication."
                 tags={["JavaScript", "HTML5", "CSS3"]}
