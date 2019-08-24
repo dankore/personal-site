@@ -8,7 +8,7 @@ thumbnail: "./gss1.jpg"
 
 ## Overview
 
-An e-commerse site for a client based in Africa.
+Unlike [the alumni website I created for GSS Gwarinpa class of 2006](https://gosan06.netlify.com/), I created this website for the both present and past GSS Gwarinpa students to network. GSS Gwarinpa, my alma mater, has no website of its own.
 
 ## Tech stack
 
