@@ -1,8 +1,8 @@
 ---
-title: "Amal's Delight"
-type: "Website"
-date: "2019-05-15"
-path: "amals-delight"
+title: "GSS Gwarinpa Network"
+type: "Website Application"
+date: "2019-08-15"
+path: "gss-gwarinpa-network"
 thumbnail: "./gss1.jpg"
 ---
 
