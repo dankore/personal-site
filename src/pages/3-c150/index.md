@@ -12,10 +12,9 @@ An e-commerse site for a client based in Africa.
 
 ## Tech stack
 
-- Middleman Template
-- Netlify CMS
-- Ruby
-- Ruby and Rails
+- JavaScript
+- MongoDB
+- Express
 
 See site live: [click here](https://amalsdelight.netlify.com/ "Amal's Delight").
 
