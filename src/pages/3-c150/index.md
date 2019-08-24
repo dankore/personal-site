@@ -1,6 +1,6 @@
 ---
 title: "GSS Gwarinpa Network"
-type: "Website Application"
+type: "Web Application"
 date: "2019-08-15"
 path: "gss-gwarinpa-network"
 thumbnail: "./gss1.jpg"
@@ -21,7 +21,7 @@ An e-commerse site for a client based in Africa.
 - Boostrap4
 - MVC architecture
 
-See site live: [click here](http://www.gssgwarinpa.com/").
+See site live: [click here](http://www.gssgwarinpa.com).
 
 ## Screenshots
 
