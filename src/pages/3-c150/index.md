@@ -15,7 +15,7 @@ Unlike [the alumni website I created for GSS Gwarinpa class of 2006](https://gos
 - JavaScript
 - Nodejs
 - Express
-- MongoDB Cloud
+- MongoDB Atlas
 - Authentication
 - HTLM5
 - Boostrap4
