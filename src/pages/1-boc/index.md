@@ -16,7 +16,7 @@ I made several of the site's static pages, content addition, and SEO.
 
 I also lead the marketing team which comprised of volunteer content creators. We also help small business onwers get their businesses on increase sales.
 
-The mission of the project is to help people live abroad with success and encourgae cross-cultural interaction a in fun, creative, and interactive way.
+The mission of the project is to help people live abroad with success and encourgae cross-cultural interaction in a fun, creative, and interactive way.
 
 See live site: [click here](https://homeawayfromhome.online/ "Home Away From Home").
 
