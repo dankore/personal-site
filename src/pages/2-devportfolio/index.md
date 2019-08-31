@@ -10,11 +10,13 @@ thumbnail: "./a.jpg"
 
 I put together all the infomation my former class mates had in PDF format and turned it into a website. I stored the information as a JSON file and retrieve it via AJAX request from the Github server. Included error handling and a search functionality.
 
+See live site: [click here](https://gosan06.netlify.com/ "Live Preview").
+
 See the repo: [click here](https://github.com/dankore/gss-gwarinpa-2006-set "GitHub Repo").
 
 See the PDF: [Click here](https://1drv.ms/b/s!AuOdQ10mJ7QNhM0yuTVCjtjSiwEVDg?e=mg3Tix "PDF").
 
-See the live web page: [click here](https://gosan06.netlify.com/ "Live Preview").
+
 
 ## Tech stack
 
