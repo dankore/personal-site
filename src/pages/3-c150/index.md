@@ -22,6 +22,7 @@ Unlike [the alumni website I created for GSS Gwarinpa class of 2006](https://gos
 - MVC architecture
 
 See site live: [click here](http://www.gssgwarinpa.com).
+
 See GitHub repo: [click here](https://github.com/dankore/social-app).
 
 ## Screenshots
