@@ -19,6 +19,7 @@ I also lead a small marketing team which comprised of volunteer content creators
 The mission of the project is to help people live abroad with success and encourgae cross-cultural interaction in a fun, creative, and interactive way.
 
 See live site: [click here](https://homeawayfromhome.online "Home Away From Home").
+
 See some reviews: [click here](https://www.trustpilot.com/review/homeawayfromhome.online "Reviews") 
 
 *As of August 30, 2018
