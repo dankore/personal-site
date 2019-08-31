@@ -8,15 +8,15 @@ thumbnail: "./thumbnailtodo.png"
 
 ## Overview
 
-A basic to do app that performs CRUD operations to a backend MongoDB database using Nodejs.
+A basic to do application that performs CRUD operations to a backend MongoDB database using Nodejs.
 
 #### You require the following username and password to access the app
 
-Username: ```abuja```
+Username: ```abuja```    Password: ```nigeria```
 
-Password: ```nigeria```
+See site live: [click here](https://crud-todo-app.herokuapp.com/ "CRUD Todo App").
 
-See the site live: [click here](https://crud-todo-app.herokuapp.com/ " CRUD Todo App").
+See GitHub repo: [click here](https://github.com/dankore/CRUD-to-do-app "CRUD Todo App").
 
 ## Tech Stack
 
