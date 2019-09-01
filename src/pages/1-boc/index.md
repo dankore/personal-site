@@ -10,7 +10,7 @@ thumbnail: "./thumbnail-hafh.jpg"
 
 This is a project which idea was born of a visit to an elementary school. I went from hosting the site in a static WordPress template and utilizing Google Forms to collect and store data to partnering with a professional web developer to rebirth the idea in a more robust web development environment.
 
-The site is currently averaging more than 4,000 unique visits and 500,000 requests a month*.
+The site is currently averaging more than 4,000 unique visits and 400,000 requests a month*.
 
 I made several of the site's static pages, content addition, and SEO.
 
