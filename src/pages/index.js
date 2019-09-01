@@ -17,7 +17,8 @@ import Work from "../components/Work";
 import OtherWork from "../components/OtherWork";
 
 const AboutMeParagraph = styled.p`
- text-align: left;
+ padding-left: 15px;
+ padding-right: 15px;
 `;
 
 const WhiteBackgroundWrapper = styled.div`
