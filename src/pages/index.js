@@ -164,6 +164,10 @@ class BlogIndex extends React.Component {
                 As the head of the marketing team, we helped grew the startup to more than 740* registered users, 4,000* 
                 unique visits, and more than 500,000* SSL requests served since our beta in launch on May 22, 2019.
               </AboutMeParagraph>
+              
+              <AboutMeParagraph>
+                My Facebook Profile Frames had 12 millions impressions and 231,674 shares.
+              </AboutMeParagraph>
 
               <AboutMeParagraph>
                 <em>*As of August, 2019</em>
