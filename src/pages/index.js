@@ -16,6 +16,10 @@ import BlogPrompt from "../components/BlogPrompt";
 import Work from "../components/Work";
 import OtherWork from "../components/OtherWork";
 
+const AboutMeParagraph = styled.p`
+ text-align: left;
+`
+
 const WhiteBackgroundWrapper = styled.div`
   padding: 75px 0 45px;
 `;
@@ -150,16 +154,15 @@ class BlogIndex extends React.Component {
          <WhiteBackgroundWrapper>
            <Container>
               <SectionHeader>About Me</SectionHeader>
-              <p>
+              <AboutMeParagraph>
                 I'm a software engineer who specialises in responsive web designs. Since November 2018, I have been 
                 working part-time for my internet startup, HAFH, as a front-end developer, where I help with designs, 
                 static pages, SEO, and marketing. <br>
                 As the head of the marketing team, we helped grew the startup to more than 740* registered users, 4,000* 
                 unique visits, and more than 500,000* SSL requests served since our beta in launch on May 22, 2019. <br>
-                I'm also a self-taught developer.<br>
-
+                I'm also a self-taught developer. <br>
                 <em>*As of August, 2019</em>
-              </p>
+              </AboutMeParagraph>
            </Container>
          </WhiteBackgroundWrapper>
 
