@@ -170,7 +170,7 @@ class BlogIndex extends React.Component {
               </AboutMeParagraph>
 
               <AboutMeParagraph>
-                <em style="font-size: 12px">*As of August, 2019</em>
+                <em>*As of August, 2019</em>
               </AboutMeParagraph>
            </Container>
          </WhiteBackgroundWrapper>
