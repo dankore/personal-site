@@ -162,11 +162,12 @@ class BlogIndex extends React.Component {
 
                <AboutMeParagraph>               
                 As the head of the marketing team, we helped grew the startup to more than 740* registered users, 4,000* 
-                unique visits a month, and more than 250,000* SSL requests a month served since our beta in launch on May 22, 2019.
+                unique visits a month, and more than 400,000* SSL requests a month served since our beta in launch on May 22, 2019.
               </AboutMeParagraph>
               
               <AboutMeParagraph>
-                My Facebook Profile Frames had 12 million* impressions and 231,674* shares.
+                My Facebook Profile Frames had 12 million* impressions and 231,674* shares. My other works which includes
+                Amal's Delight, Alumni website, and GSS Gwarinpa Network are being used on a regular basis.
               </AboutMeParagraph>
 
               <AboutMeParagraph>
