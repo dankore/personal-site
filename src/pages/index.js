@@ -99,7 +99,7 @@ class BlogIndex extends React.Component {
             <SectionHeader>Other Work</SectionHeader>
             <SectionDescription>
               See a complete list on my{" "}
-              <a href="https://github.com/dankore?tab=repositories">GitHub</a>
+              <a href="https://github.com/dankore">GitHub</a>
             </SectionDescription>
             <OtherWorkWrapper>
               <OtherWork
