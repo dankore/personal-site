@@ -151,7 +151,7 @@ class BlogIndex extends React.Component {
             </OtherWorkWrapper>
           </Container>
         </OtherWrapper>
-         <WhiteBackgroundWrapper>
+         <WhiteBackgroundWrapper id="about">
            <Container>
               <SectionHeader>About Me</SectionHeader>
               <AboutMeParagraph>
