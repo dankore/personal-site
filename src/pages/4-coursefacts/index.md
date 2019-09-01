@@ -12,7 +12,7 @@ A basic to do application that performs CRUD operations to a backend MongoDB dat
 
 #### You require the following username and password to access the app
 
-> Username: ```abuja```    Password: ```nigeria```
+Username: ``abuja``    Password: ``nigeria``
 
 See site live: [click here](https://crud-todo-app.herokuapp.com/ "CRUD Todo App").
 
