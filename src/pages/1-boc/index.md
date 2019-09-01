@@ -14,7 +14,7 @@ The site is currently averaging more than 4,000 unique visits and 500,000 reques
 
 I made several of the site's static pages, content addition, and SEO.
 
-I also lead a small marketing team which comprised of volunteer content creators. We also help small business onwers get their businesses online to increase sales.
+I also lead a small marketing team which comprised of volunteer content creators. We also help small business owners get their businesses on the site to increase sales.
 
 The mission of the project is to help people live abroad with success and encourgae cross-cultural interaction in a fun, creative, and interactive way.
 
