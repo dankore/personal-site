@@ -8,6 +8,7 @@ function Nav() {
     <nav>
       <GatsbyLink to="/">Home</GatsbyLink>
       <GatsbyLink to="/#projects">Projects</GatsbyLink>
+      <GatsbyLink to="/#about">About</GatsbyLink>
       <GatsbyLink to="/#contact">Contact</GatsbyLink>
     </nav>
   );
