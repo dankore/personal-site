@@ -166,11 +166,11 @@ class BlogIndex extends React.Component {
               </AboutMeParagraph>
               
               <AboutMeParagraph>
-                My Facebook Profile Frames had 12 millions impressions and 231,674 shares.
+                My Facebook Profile Frames had 12 million* impressions and 231,674* shares.
               </AboutMeParagraph>
 
               <AboutMeParagraph>
-                <em>*As of August, 2019</em>
+                <em style="font-size: 12px">*As of August, 2019</em>
               </AboutMeParagraph>
            </Container>
          </WhiteBackgroundWrapper>
