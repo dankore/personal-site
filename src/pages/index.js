@@ -147,6 +147,13 @@ class BlogIndex extends React.Component {
             </OtherWorkWrapper>
           </Container>
         </OtherWrapper>
+         <WhiteBackgroundWrapper>
+           <Container>
+              <SectionHeader>About Me</SectionHeader>
+              <p>From API to API</p>
+           </Container>
+         </WhiteBackgroundWrapper>
+
         <ContactBackgroundWrapper id="contact">
           <Container>
             <ContactSectionHeader>Contact</ContactSectionHeader>
