@@ -156,7 +156,7 @@ class BlogIndex extends React.Component {
               <SectionHeader>About Me</SectionHeader>
               <AboutMeParagraph>
                 I am a self-taught software engineer who specializes in responsive web designs. Since November 2018, I have been 
-                working part-time for my internet startup, HAFH, as a front-end developer, where I help with designs, 
+                working part-time for my internet startup, Home Away From Home, as a front-end developer, where I help with designs, 
                 static pages, SEO, and marketing. 
               </AboutMeParagraph>
 
