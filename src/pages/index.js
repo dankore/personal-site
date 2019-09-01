@@ -155,16 +155,18 @@ class BlogIndex extends React.Component {
            <Container>
               <SectionHeader>About Me</SectionHeader>
               <AboutMeParagraph>
-                I am a software engineer who specialises in responsive web designs. Since November 2018, I have been 
+                I am a self-taught software engineer who specialises in responsive web designs. Since November 2018, I have been 
                 working part-time for my internet startup, HAFH, as a front-end developer, where I help with designs, 
                 static pages, SEO, and marketing. 
-                
+              </AboutMeParagraph>
+
+               <AboutMeParagraph>               
                 As the head of the marketing team, we helped grew the startup to more than 740* registered users, 4,000* 
                 unique visits, and more than 500,000* SSL requests served since our beta in launch on May 22, 2019.
+              </AboutMeParagraph>
 
-                I am also a self-taught developer.
+              <AboutMeParagraph>
                 <em>*As of August, 2019</em>
-                
               </AboutMeParagraph>
            </Container>
          </WhiteBackgroundWrapper>
