@@ -8,7 +8,7 @@ thumbnail: "./gss1.jpg"
 
 ## Overview
 
-Unlike [the alumni website I created for GSS Gwarinpa class of 2006](https://gosan06.netlify.com/), GSS Gwarinpa Network is a web application for both present and past GSS Gwarinpa students to network. GSS Gwarinpa is my alma mater located in Abuja, Nigeria. Some of the features of the application include the ability of users to follow or unfollow other users; creating, editing, and deleting a post; curated lists of posts, and more. 
+Unlike [the alumni website I created for GSS Gwarinpa class of 2006](https://gosan06.netlify.com/), GSS Gwarinpa Network is a web application for both present and past GSS Gwarinpa students to network. GSS Gwarinpa is my alma mater located in Abuja, Nigeria. Some of the features of the application include the ability of users to follow or unfollow other users; creating, editing, and deleting a post; curated lists of posts feed, live chat, and more. 
 
 It is a social networking application with modern security features.
 
