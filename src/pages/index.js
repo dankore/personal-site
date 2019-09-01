@@ -162,7 +162,7 @@ class BlogIndex extends React.Component {
 
                <AboutMeParagraph>               
                 As the head of the marketing team, we helped grew the startup to more than 740* registered users, 4,000* 
-                unique visits a month, and more than 400,000* SSL requests a month served since our beta in launch on May 22, 2019.
+                unique visits a month, and more than 400,000* SSL requests a month served since our beta launch on May 22, 2019.
               </AboutMeParagraph>
               
               <AboutMeParagraph>
