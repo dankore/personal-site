@@ -1,5 +1,5 @@
 ---
-title: "Alumni Wesbite"
+title: "Alumni Website"
 type: "Website"
 date: "July, 2019"
 path: "/gosan2006/"
