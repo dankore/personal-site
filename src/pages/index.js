@@ -150,7 +150,7 @@ class BlogIndex extends React.Component {
          <WhiteBackgroundWrapper>
            <Container>
               <SectionHeader>About Me</SectionHeader>
-              <p>From API to API</p>
+              <p>From API to API!</p>
            </Container>
          </WhiteBackgroundWrapper>
 
