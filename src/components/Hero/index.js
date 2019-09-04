@@ -8,11 +8,12 @@ import P from "./P";
 import HeroLinks from "../HeroLinks";
 import Img from "./Img";
 import Me from "./adamu.png";
-// import ParticlesBG from "../ParticlesBG";
+import ParticlesBG from "../ParticlesBG";
 
 function Hero(props) {
   return (
     <Wrapper>
+     <ParticlesBG />
       <Container>
         <Column>
           <H1>Adamu M. Dankore</H1>
