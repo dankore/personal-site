@@ -37,6 +37,7 @@
   "homepage": "https://github.com/ryanfitzgerald/personal-site",
   "keywords": [
     "gatsby",
+    "react",
     "personal site"
   ],
   "license": "MIT",
