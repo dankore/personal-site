@@ -166,7 +166,7 @@ class BlogIndex extends React.Component {
               </AboutMeParagraph>
               
               <AboutMeParagraph>
-                My Facebook Profile Frames had 12 million* impressions and 231,674* shares. My other works which includes
+                I also tinker with designs. My Facebook Profile Frames has 12 million* impressions and 231,674* shares. My other works which includes
                 Amal's Delight, Alumni website, and GSS Gwarinpa Network are being used on a regular basis.
               </AboutMeParagraph>
 
