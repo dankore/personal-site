@@ -7,7 +7,7 @@ import SocialMedia from '../SocialMedia';
 function HeroLinks(props) {
   return (
     <div>
-      <Button href="https://onedrive.live.com/view.aspx?cid=0DB427265D439DE3&authKey=%21AIJTlKhS4GwYZag&resid=DB427265D439DE3%2175653&ithint=%2Epdf&open=true&app=WordPdf">View Resume</Button>
+      <Button href="https://rawcdn.githack.com/dankore/resume/089e9700c254bb25140eac8c8fab207ffea9563b/src/adamuMDankoreResume.pdf">View Resume</Button>
       <SocialWrapper>
         <SocialMedia/>
       </SocialWrapper>
