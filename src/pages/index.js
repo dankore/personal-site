@@ -158,7 +158,6 @@ class BlogIndex extends React.Component {
                 I am a self-taught software engineer who specializes in responsive web designs. Since November 2018, I have been 
                 working part-time for my internet startup, Home Away From Home, as a Software Engineer and Head of Marketing. I write
                 code in Hyperapp and style in TailwindCSS which run in a Docker Swam cluster.
-                  
               </AboutMeParagraph>
 
                <AboutMeParagraph>               
