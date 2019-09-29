@@ -156,13 +156,14 @@ class BlogIndex extends React.Component {
               <SectionHeader>About Me</SectionHeader>
               <AboutMeParagraph>
                 I am a self-taught software engineer who specializes in responsive web designs. Since November 2018, I have been 
-                working part-time for my internet startup, Home Away From Home, as a front-end developer, where I help with designs, 
-                static pages, SEO, and marketing. 
+                working part-time for my internet startup, Home Away From Home, as a Software Engineer and Head of Marketing. I write
+                code in Hyperapp and style in TailwindCSS which run in a Docker Swam cluster.
+                  
               </AboutMeParagraph>
 
                <AboutMeParagraph>               
-                As the head of the marketing team, we grew the startup to 4,000* 
-                unique visits a month, and more than 400,000* SSL requests a month since our beta launch on May 22, 2019.
+                As Head of Marketing, we grew the startup to 4,000* 
+                unique visits and 400,000* SSL requests a month since our beta launch on May 22, 2019.
               </AboutMeParagraph>
               
               <AboutMeParagraph>
