@@ -12,7 +12,8 @@ This is a project which idea was born of a visit to an elementary school. I went
 
 The site is currently averaging more than 4,000 unique visits and 400,000 requests a month*.
 
-I made several of the site's static pages, content addition, and SEO.
+I write code in Hyperapp and style in TailwindCSS which run in a Docker Swam cluster. I also do content addition
+and SEO.
 
 I also lead a small marketing team which comprised of volunteer content creators. We also help small business owners get their businesses on the site to increase sales.
 
