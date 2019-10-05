@@ -8,7 +8,7 @@ thumbnail: "./a.jpg"
 
 ## Overview
 
-I put together all the infomation my former class mates had in PDF format and turned it into a website. I stored the information as a JSON file and retrieve it via AJAX request from the Github server. Included error handling and a search functionality.
+I put together all the information my former classmates had in PDF format and turned it into a website. I stored the information as a JSON file and retrieve it via AJAX request from the Github server. Included error handling and search functionality.
 
 See site live: [click here](https://gosan06.netlify.com/ "Live Preview").
 
